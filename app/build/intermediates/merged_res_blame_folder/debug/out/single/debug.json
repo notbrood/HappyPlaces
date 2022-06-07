@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_image_view_border.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\drawable\\shape_image_view_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_happy_place_details.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\layout\\activity_happy_place_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\layout_item_happy_place.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\layout\\item_happy_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_shape_button_rounded.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\drawable-v24\\shape_button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_happy_places.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\layout\\activity_add_happy_places.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_action_add_24dp.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\drawable\\ic_action_add_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_detail_screen_image_placeholder.png.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\drawable-v24\\detail_screen_image_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_shape_image_view_border.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\drawable-v24\\shape_image_view_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_add_screen_image_placeholder.png.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\drawable-v24\\add_screen_image_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Amann\\AndroidStudioProjects\\HappyPlaces\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1445" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1445" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/drawable-v24/shape_button_rounded.xml" value="0.1445" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/drawable-v24/shape_image_view_border.xml" value="0.1445" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/drawable/ic_action_add_24dp.xml" value="0.1445" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/drawable/shape_image_view_border.xml" value="0.1445" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/layout/activity_add_happy_places.xml" value="0.2143864598025388" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/layout/activity_happy_place_details.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/layout/activity_map.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/layout/fragment_maps.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Amann/AndroidStudioProjects/HappyPlaces/app/src/main/res/layout/item_happy_place.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,237 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.broood.happyplaces"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:7:5-65
+13-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:7:22-62
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:9:5-81
+15-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->[com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:10:5-76
+16-->[com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:10:22-73
+17    <uses-permission android:name="android.permission.INTERNET" /> <!-- Include required permissions for Google Maps API to run. -->
+17-->[com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:11:5-67
+17-->[com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:11:22-64
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+18-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:23:22-76
+19
+20    <uses-feature
+20-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+21        android:glEsVersion="0x00020000"
+21-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+22        android:required="true" />
+22-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+23
+24    <queries>
+24-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+25
+26        <!-- Needs to be explicitly declared on Android R+ -->
+27        <package android:name="com.google.android.apps.maps" />
+27-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+27-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+28    </queries>
+29
+30    <application
+30-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:11:5-60:19
+31        android:allowBackup="false"
+31-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:12:9-36
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.8.0] C:\Users\Amann\.gradle\caches\transforms-3\6e711412935a20f587a1fcdf14893b6a\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+34-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:13:9-43
+35        android:label="@string/app_name"
+35-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:14:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:15:9-54
+37        android:supportsRtl="true"
+37-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:16:9-35
+38        android:testOnly="true"
+39        android:theme="@style/Theme.HappyPlaces" >
+39-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:17:9-49
+40
+41        <!--
+42             TODO: Before you run your application, you need a Google Maps API key.
+43
+44             To get one, follow the directions here:
+45
+46                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+47
+48             Once you have your API key (it starts with "AIza"), define a new property in your
+49             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+50             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+51        -->
+52        <meta-data
+52-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:30:9-32:47
+53            android:name="com.google.android.geo.API_KEY"
+53-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:31:13-58
+54            android:value="@string/gmapAPI" />
+54-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:32:13-44
+55
+56        <activity
+56-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:34:9-38:61
+57            android:name="com.broood.happyplaces.activities.HappyPlaceDetails"
+57-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:35:13-57
+58            android:exported="false"
+58-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:36:13-37
+59            android:screenOrientation="portrait"
+59-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:37:13-49
+60            android:theme="@style/CustomNoActionBarTheme" />
+60-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:38:13-58
+61        <activity
+61-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:39:9-44:61
+62            android:name="com.broood.happyplaces.activities.AddHappyPlaces"
+62-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:40:13-54
+63            android:exported="false"
+63-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:41:13-37
+64            android:label="ADD HAPPY PLACE"
+64-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:42:13-44
+65            android:screenOrientation="portrait"
+65-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:43:13-49
+66            android:theme="@style/CustomNoActionBarTheme" />
+66-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:44:13-58
+67        <activity
+67-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:45:9-50:61
+68            android:name="com.broood.happyplaces.activities.MapActivity"
+68-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:46:13-51
+69            android:exported="false"
+69-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:47:13-37
+70            android:label="ADD HAPPY PLACE"
+70-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:48:13-44
+71            android:screenOrientation="portrait"
+71-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:49:13-49
+72            android:theme="@style/CustomNoActionBarTheme" />
+72-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:50:13-58
+73        <activity
+73-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:51:9-59:20
+74            android:name="com.broood.happyplaces.activities.MainActivity"
+74-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:52:13-52
+75            android:exported="true" >
+75-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:53:13-36
+76            <intent-filter>
+76-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:54:13-58:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:55:17-69
+77-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:55:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:57:17-77
+79-->C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:57:27-74
+80            </intent-filter>
+81        </activity>
+82        <activity
+82-->[com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:27:9-29:72
+83            android:name="com.karumi.dexter.DexterActivity"
+83-->[com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:28:13-60
+84            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+84-->[com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:29:13-69
+85        <activity
+85-->[com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:14:9-20:20
+86            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+86-->[com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:15:13-91
+87            android:exported="false"
+87-->[com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:16:13-37
+88            android:label="@string/places_autocomplete_label"
+88-->[com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:17:13-62
+89            android:theme="@style/PlacesAutocompleteOverlay"
+89-->[com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:18:13-61
+90            android:windowSoftInputMode="adjustResize" >
+90-->[com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:19:13-55
+91        </activity> <!-- Needs to be explicitly declared on P+ -->
+92        <uses-library
+92-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+93            android:name="org.apache.http.legacy"
+93-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+94            android:required="false" />
+94-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+95
+96        <activity
+96-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+97            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+97-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+98            android:exported="false"
+98-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+99            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+99-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+100
+101        <meta-data
+101-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+102            android:name="com.google.android.gms.version"
+102-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+103            android:value="@integer/google_play_services_version" />
+103-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+104
+105        <provider
+105-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+106            android:name="androidx.startup.InitializationProvider"
+106-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+107            android:authorities="com.broood.happyplaces.androidx-startup"
+107-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+108            android:exported="false" >
+108-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+109            <meta-data
+109-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+110                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+110-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+111                android:value="androidx.startup" />
+111-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+112            <meta-data
+112-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+113                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+113-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+114                android:value="androidx.startup" />
+114-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+115        </provider>
+116
+117        <service
+117-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+118            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+118-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+119            android:exported="false" >
+119-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+120            <meta-data
+120-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+121                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+121-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+122                android:value="cct" />
+122-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+123        </service>
+124        <service
+124-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+125            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+125-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+126            android:exported="false"
+126-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+127            android:permission="android.permission.BIND_JOB_SERVICE" >
+127-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+128        </service>
+129
+130        <receiver
+130-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+131            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+131-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+132            android:exported="false" />
+132-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+133    </application>
+134
+135</manifest>

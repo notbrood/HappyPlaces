@@ -1,0 +1,453 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:2:1-62:12
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Amann\.gradle\caches\transforms-3\50fda8e54076d0ed19b65a297b8ec402\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Amann\.gradle\caches\transforms-3\a88a8014207f71ac4dbecdbeda583f2f\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Amann\.gradle\caches\transforms-3\2861aa3139ee352cc3b39df51bcba529\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Amann\.gradle\caches\transforms-3\26bc17865c0a5e96340007e021e5169a\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amann\.gradle\caches\transforms-3\7726dc5e40bfe45f3cc7f0248114255d\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\Amann\.gradle\caches\transforms-3\317289002a84ef9de2bb7c73bcfc3f68\transformed\play-services-location-19.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\0fb3bdedca91ffcc6aa291455cca7bd4\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\8d303a7e65446e5cb3beff9ef99f925e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Amann\.gradle\caches\transforms-3\cd45ab2c3b61a271bea5bde9427b7d02\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Amann\.gradle\caches\transforms-3\42fbfcba3669f2c0314449251fe16265\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Amann\.gradle\caches\transforms-3\7cc3a8f3d1f2dbdc5b33f072a8e5e538\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\da8e9b73fe062de12b0ff63a9723a10e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\2077bc025aa8359e5796881bc51b7979\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\820c629eedd0ddaf17ee2bf032e30af9\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\c08028aaad41070ccee1a1d85a2aaa09\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Amann\.gradle\caches\transforms-3\20d1e8bb87393847283b471bd268681c\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\706a66298823367aab9ea39eb71115e4\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Amann\.gradle\caches\transforms-3\8bb0b1592304ec69fc76f13d4eeafbbd\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Amann\.gradle\caches\transforms-3\5fbdce06620336d3841455c405586383\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\87269899019f5b10cbb21cf93f5d2835\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\0a11f0d9bd5391a937c1c647af5757e0\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\c113e913f71af4a5dd5b5a6705526830\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\068d47f473f7d9c9fca17b488b571249\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\e096d22d638de71db12f625b64dbd1b6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\4a7eea63af59d9c58c47bfca763e5d17\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Amann\.gradle\caches\transforms-3\6e711412935a20f587a1fcdf14893b6a\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\32985a99bbd419a7be7488af35c869bc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Amann\.gradle\caches\transforms-3\7fd42d88e34e1c5079fac15abd35b889\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\01c0492d2df4f980824601ad316873f9\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Amann\.gradle\caches\transforms-3\ebac284edbf897cafb0b9ab1fd53cdab\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Amann\.gradle\caches\transforms-3\0c6e926d500675ec264afe8e33f380c5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Amann\.gradle\caches\transforms-3\8d6953f4a495c878a6f879aa9b721e49\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Amann\.gradle\caches\transforms-3\5f3702229df635cf99d87c117d440675\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\5befa946410adaf8441ae982107b865e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Amann\.gradle\caches\transforms-3\9ee6eab3c6b4000f5fc39854dd49e124\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\8dc7fafeacef4c22c3b971425944e99e\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\54e8c76e705844f0b1c572aa715beb86\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Amann\.gradle\caches\transforms-3\a5a040ba421bbeb5cf81214316f7dd18\transformed\firebase-encoders-json-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\861390cb8e0777cc9c3197b6010319a6\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\2f919966054ba00c2896041125cafd9f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\901315b55960546b23a4c0ed0eaf48c4\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\3244a5a18d2044e99e50d194bdd2b99e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\8d850d115d41c0813f001cddfb55e12c\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Amann\.gradle\caches\transforms-3\364835d1e08094a7d6121791b4fc8891\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Amann\.gradle\caches\transforms-3\cac325ba94260a69df2b65fb4626d876\transformed\transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:11:5-60:19
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Amann\.gradle\caches\transforms-3\50fda8e54076d0ed19b65a297b8ec402\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Amann\.gradle\caches\transforms-3\50fda8e54076d0ed19b65a297b8ec402\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Amann\.gradle\caches\transforms-3\2861aa3139ee352cc3b39df51bcba529\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Amann\.gradle\caches\transforms-3\2861aa3139ee352cc3b39df51bcba529\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:13:5-21:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amann\.gradle\caches\transforms-3\7726dc5e40bfe45f3cc7f0248114255d\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amann\.gradle\caches\transforms-3\7726dc5e40bfe45f3cc7f0248114255d\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\Amann\.gradle\caches\transforms-3\317289002a84ef9de2bb7c73bcfc3f68\transformed\play-services-location-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\Amann\.gradle\caches\transforms-3\317289002a84ef9de2bb7c73bcfc3f68\transformed\play-services-location-19.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Amann\.gradle\caches\transforms-3\20d1e8bb87393847283b471bd268681c\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Amann\.gradle\caches\transforms-3\20d1e8bb87393847283b471bd268681c\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\706a66298823367aab9ea39eb71115e4\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\706a66298823367aab9ea39eb71115e4\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Amann\.gradle\caches\transforms-3\6e711412935a20f587a1fcdf14893b6a\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Amann\.gradle\caches\transforms-3\6e711412935a20f587a1fcdf14893b6a\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Amann\.gradle\caches\transforms-3\0c6e926d500675ec264afe8e33f380c5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Amann\.gradle\caches\transforms-3\0c6e926d500675ec264afe8e33f380c5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\8dc7fafeacef4c22c3b971425944e99e\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\8dc7fafeacef4c22c3b971425944e99e\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Amann\.gradle\caches\transforms-3\6e711412935a20f587a1fcdf14893b6a\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:12:9-36
+	android:theme
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:17:9-49
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:30:9-32:47
+	android:value
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:31:13-58
+activity#com.broood.happyplaces.activities.HappyPlaceDetails
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:34:9-38:61
+	android:screenOrientation
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:37:13-49
+	android:exported
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:36:13-37
+	android:theme
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:38:13-58
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:35:13-57
+activity#com.broood.happyplaces.activities.AddHappyPlaces
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:39:9-44:61
+	android:screenOrientation
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:42:13-44
+	android:exported
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:41:13-37
+	android:theme
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:44:13-58
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:40:13-54
+activity#com.broood.happyplaces.activities.MapActivity
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:45:9-50:61
+	android:screenOrientation
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:48:13-44
+	android:exported
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:47:13-37
+	android:theme
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:50:13-58
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:46:13-51
+activity#com.broood.happyplaces.activities.MainActivity
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:51:9-59:20
+	android:exported
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:52:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml:57:27-74
+uses-sdk
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Amann\.gradle\caches\transforms-3\50fda8e54076d0ed19b65a297b8ec402\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Amann\.gradle\caches\transforms-3\50fda8e54076d0ed19b65a297b8ec402\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Amann\.gradle\caches\transforms-3\a88a8014207f71ac4dbecdbeda583f2f\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Amann\.gradle\caches\transforms-3\a88a8014207f71ac4dbecdbeda583f2f\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Amann\.gradle\caches\transforms-3\2861aa3139ee352cc3b39df51bcba529\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Amann\.gradle\caches\transforms-3\2861aa3139ee352cc3b39df51bcba529\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:7:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Amann\.gradle\caches\transforms-3\26bc17865c0a5e96340007e021e5169a\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Amann\.gradle\caches\transforms-3\26bc17865c0a5e96340007e021e5169a\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amann\.gradle\caches\transforms-3\7726dc5e40bfe45f3cc7f0248114255d\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amann\.gradle\caches\transforms-3\7726dc5e40bfe45f3cc7f0248114255d\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\Amann\.gradle\caches\transforms-3\317289002a84ef9de2bb7c73bcfc3f68\transformed\play-services-location-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.1] C:\Users\Amann\.gradle\caches\transforms-3\317289002a84ef9de2bb7c73bcfc3f68\transformed\play-services-location-19.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\0fb3bdedca91ffcc6aa291455cca7bd4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\0fb3bdedca91ffcc6aa291455cca7bd4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\8d303a7e65446e5cb3beff9ef99f925e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\8d303a7e65446e5cb3beff9ef99f925e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Amann\.gradle\caches\transforms-3\cd45ab2c3b61a271bea5bde9427b7d02\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Amann\.gradle\caches\transforms-3\cd45ab2c3b61a271bea5bde9427b7d02\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Amann\.gradle\caches\transforms-3\42fbfcba3669f2c0314449251fe16265\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Amann\.gradle\caches\transforms-3\42fbfcba3669f2c0314449251fe16265\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Amann\.gradle\caches\transforms-3\7cc3a8f3d1f2dbdc5b33f072a8e5e538\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Amann\.gradle\caches\transforms-3\7cc3a8f3d1f2dbdc5b33f072a8e5e538\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\da8e9b73fe062de12b0ff63a9723a10e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\da8e9b73fe062de12b0ff63a9723a10e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\2077bc025aa8359e5796881bc51b7979\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\2077bc025aa8359e5796881bc51b7979\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\820c629eedd0ddaf17ee2bf032e30af9\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\820c629eedd0ddaf17ee2bf032e30af9\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\c08028aaad41070ccee1a1d85a2aaa09\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\c08028aaad41070ccee1a1d85a2aaa09\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Amann\.gradle\caches\transforms-3\20d1e8bb87393847283b471bd268681c\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Amann\.gradle\caches\transforms-3\20d1e8bb87393847283b471bd268681c\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\706a66298823367aab9ea39eb71115e4\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\706a66298823367aab9ea39eb71115e4\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Amann\.gradle\caches\transforms-3\8bb0b1592304ec69fc76f13d4eeafbbd\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Amann\.gradle\caches\transforms-3\8bb0b1592304ec69fc76f13d4eeafbbd\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Amann\.gradle\caches\transforms-3\5fbdce06620336d3841455c405586383\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Amann\.gradle\caches\transforms-3\5fbdce06620336d3841455c405586383\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\87269899019f5b10cbb21cf93f5d2835\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\87269899019f5b10cbb21cf93f5d2835\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\0a11f0d9bd5391a937c1c647af5757e0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\0a11f0d9bd5391a937c1c647af5757e0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\c113e913f71af4a5dd5b5a6705526830\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\c113e913f71af4a5dd5b5a6705526830\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\068d47f473f7d9c9fca17b488b571249\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\068d47f473f7d9c9fca17b488b571249\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\e096d22d638de71db12f625b64dbd1b6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\e096d22d638de71db12f625b64dbd1b6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\4a7eea63af59d9c58c47bfca763e5d17\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\4a7eea63af59d9c58c47bfca763e5d17\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\Amann\.gradle\caches\transforms-3\6e711412935a20f587a1fcdf14893b6a\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Amann\.gradle\caches\transforms-3\6e711412935a20f587a1fcdf14893b6a\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\32985a99bbd419a7be7488af35c869bc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\32985a99bbd419a7be7488af35c869bc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Amann\.gradle\caches\transforms-3\7fd42d88e34e1c5079fac15abd35b889\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Amann\.gradle\caches\transforms-3\7fd42d88e34e1c5079fac15abd35b889\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\01c0492d2df4f980824601ad316873f9\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\01c0492d2df4f980824601ad316873f9\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Amann\.gradle\caches\transforms-3\ebac284edbf897cafb0b9ab1fd53cdab\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Amann\.gradle\caches\transforms-3\ebac284edbf897cafb0b9ab1fd53cdab\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Amann\.gradle\caches\transforms-3\0c6e926d500675ec264afe8e33f380c5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Amann\.gradle\caches\transforms-3\0c6e926d500675ec264afe8e33f380c5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Amann\.gradle\caches\transforms-3\8d6953f4a495c878a6f879aa9b721e49\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Amann\.gradle\caches\transforms-3\8d6953f4a495c878a6f879aa9b721e49\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Amann\.gradle\caches\transforms-3\5f3702229df635cf99d87c117d440675\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Amann\.gradle\caches\transforms-3\5f3702229df635cf99d87c117d440675\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\5befa946410adaf8441ae982107b865e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\5befa946410adaf8441ae982107b865e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Amann\.gradle\caches\transforms-3\9ee6eab3c6b4000f5fc39854dd49e124\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Amann\.gradle\caches\transforms-3\9ee6eab3c6b4000f5fc39854dd49e124\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\8dc7fafeacef4c22c3b971425944e99e\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\8dc7fafeacef4c22c3b971425944e99e\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\54e8c76e705844f0b1c572aa715beb86\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\54e8c76e705844f0b1c572aa715beb86\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Amann\.gradle\caches\transforms-3\a5a040ba421bbeb5cf81214316f7dd18\transformed\firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\Amann\.gradle\caches\transforms-3\a5a040ba421bbeb5cf81214316f7dd18\transformed\firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\861390cb8e0777cc9c3197b6010319a6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\861390cb8e0777cc9c3197b6010319a6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\2f919966054ba00c2896041125cafd9f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\2f919966054ba00c2896041125cafd9f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\901315b55960546b23a4c0ed0eaf48c4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\901315b55960546b23a4c0ed0eaf48c4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\3244a5a18d2044e99e50d194bdd2b99e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\3244a5a18d2044e99e50d194bdd2b99e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\8d850d115d41c0813f001cddfb55e12c\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Amann\.gradle\caches\transforms-3\8d850d115d41c0813f001cddfb55e12c\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Amann\.gradle\caches\transforms-3\364835d1e08094a7d6121791b4fc8891\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Amann\.gradle\caches\transforms-3\364835d1e08094a7d6121791b4fc8891\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Amann\.gradle\caches\transforms-3\cac325ba94260a69df2b65fb4626d876\transformed\transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Amann\.gradle\caches\transforms-3\cac325ba94260a69df2b65fb4626d876\transformed\transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Amann\AndroidStudioProjects\HappyPlaces\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.2.3] C:\Users\Amann\.gradle\caches\transforms-3\ab6d69fe2d7115dd92d3828775a67d8a\transformed\dexter-6.2.3\AndroidManifest.xml:28:13-60
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:11:22-64
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:17:13-62
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:18:13-61
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.6.0] C:\Users\Amann\.gradle\caches\transforms-3\636c4e684c1c95ff07d4b6f8ed0c07bf\transformed\places-2.6.0\AndroidManifest.xml:15:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Amann\.gradle\caches\transforms-3\85dce1e43fb31548e4e8ee5e6953ba0f\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Amann\.gradle\caches\transforms-3\0cdaa6ab74beeea84c71e1d93fc59fae\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Amann\.gradle\caches\transforms-3\ab92c1a801fe72b762de26adb3daf5b9\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\8dc7fafeacef4c22c3b971425944e99e\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\8dc7fafeacef4c22c3b971425944e99e\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Amann\.gradle\caches\transforms-3\00c1a346744086e839d70e94f9de279d\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\Amann\.gradle\caches\transforms-3\9aa9193cfd57b9094d301c95b9be58e2\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\Amann\.gradle\caches\transforms-3\a36a7a27da829084a8719201b19d427c\transformed\transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Amann\.gradle\caches\transforms-3\725913f73a4694224cad847e8f584fda\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
